@@ -1,0 +1,19 @@
+# Maven build output
+/target/
+
+# IDE and editor files
+/.idea/
+/.vscode/
+/out/
+
+# Compiled Java output
+*.class
+
+# Runtime state (contains account hashes, task uploads, and logs)
+/data/
+*.log
+hs_err_pid*.log
+
+# OS files
+.DS_Store
+Thumbs.db
