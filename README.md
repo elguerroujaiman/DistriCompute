@@ -83,11 +83,3 @@ src/main/resources/  JavaFX styles and application icon
 tools/sample-jars/   Source for the included sample JARs
 data/                Local runtime state (created automatically)
 ```
-
-## Containerization
-
-Docker is not provided. The main application is a JavaFX desktop client, so running it inside a container would require host-specific display and JavaFX native-library setup. Maven is the supported local workflow.
-
-## License
-
-No license has been selected for this repository yet. Add a license before publication if you want to grant users explicit permission to reuse or modify the code.
